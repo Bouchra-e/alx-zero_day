@@ -1,2 +1,2 @@
 My first readme
-I a just adding a new message
+Continuous improvement is better than delayed perfection
